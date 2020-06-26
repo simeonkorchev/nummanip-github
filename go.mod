@@ -1,3 +1,3 @@
-module github.com/simeonkorchev/nummanip-github/v2
+module github.com/simeonkorchev/nummanip-github/v3
 
 go 1.14
