@@ -8,5 +8,5 @@ func Add(operands ...int) (int, error) {
 	for _, operand := range operands {
 		sum += operand
 	}
-	return sum
+	return sum, nil
 }
